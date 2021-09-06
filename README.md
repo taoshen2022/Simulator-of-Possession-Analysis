@@ -1,0 +1,2 @@
+# Simulator-of-Possession-Analysis
+This project is a realization and simple version of simulation of what has been put forward in the paper "Analysis on Dynamics of Basketball Possession Behavior based on Markov Decision Process" . The main content focuses on realization of algorithms( PBE with an estimated policy and PBI) and the outputs are mainly numerical results  presented in the paper. As for the graphs generated in the paper, they are produced by other tools and would not be presented in this project.
